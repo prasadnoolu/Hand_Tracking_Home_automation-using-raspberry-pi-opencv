@@ -1,4 +1,8 @@
-// For instructions and working please download the video from this link https://drive.google.com/open?id=1CVgpH9-SdRxy7wluBJeg9Q_hHrNCYun_
+// For instructions and working please download the video from this link 
+//https://drive.google.com/open?id=1CVgpH9-SdRxy7wluBJeg9Q_hHrNCYun_
+//T-Hub Team
+//you can connect up to 10 devices which can be on / off uisng your finger count
+//for queries please feel free to contact bhaskarprasad.n@aec.edu.in
 #include <cv.h>
 #include "cvaux.h"
 #include "cxmisc.h"
@@ -19,7 +23,7 @@ void  detect(IplImage* img_8uc1,IplImage* img_8uc3);
 
 void help(void)
 {
-    printf("This system was modefied by N.B.L.V.PRASAD T-HUB Aditya Engineering College");
+    printf("This system was modefied by N.B.L.V.PRASAD, T-HUB, Aditya Engineering College \n");
 }
 
 
