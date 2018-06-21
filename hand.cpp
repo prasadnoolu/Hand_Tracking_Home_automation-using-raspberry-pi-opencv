@@ -1,4 +1,4 @@
-// For instructions and operating please download the video from this link https://drive.google.com/open?id=1CVgpH9-SdRxy7wluBJeg9Q_hHrNCYun_
+// For instructions and working please download the video from this link https://drive.google.com/open?id=1CVgpH9-SdRxy7wluBJeg9Q_hHrNCYun_
 #include <cv.h>
 #include "cvaux.h"
 #include "cxmisc.h"
